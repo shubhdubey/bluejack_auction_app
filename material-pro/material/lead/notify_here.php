@@ -58,7 +58,7 @@ function filterTable($query)
     <meta name="description" content="">
     <meta name="author" content="">
     <!-- Favicon icon -->
-    <link rel="icon" type="image/png" sizes="16x16" href="../../assets/images/favicon.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="../../assets/images/Logo_Thumb_Blue.png">
     <title>Bluejack - <?php echo ucfirst($showroomname);?></title>
     <!-- Bootstrap Core CSS -->
     <link href="../../assets/plugins/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -114,7 +114,7 @@ function filterTable($query)
                             <!-- Dark Logo icon -->
                             <img src="../../assets/images/logo-icon.png" alt="homepage" class="dark-logo" />
                             <!-- Light Logo icon -->
-                            <img src="../../assets/images/Logo_Thumb_White.png" alt="homepage" class="light-logo" width="32px" height="31px" />
+                            <a href="../index.php"><img src="../../assets/images/Logo_Thumb_Blue.png" alt="homepage" class="light-logo" width="40px" height="50px" /></a>
                         </b>
                         <!--End Logo icon -->
                         <!-- Logo text -->
